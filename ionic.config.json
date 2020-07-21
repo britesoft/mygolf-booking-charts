@@ -1,0 +1,7 @@
+{
+  "name": "myGolf2u",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
